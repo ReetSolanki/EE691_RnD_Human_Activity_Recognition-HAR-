@@ -46,14 +46,14 @@ The notebook installs the following packages automatically:
 
 ---
 
-## 📸 Sample Output (Add your own screenshots)
+## 📸 Sample Output
 
-![Image](https://github.com/user-attachments/assets/e43b7ade-7f4d-41c7-90db-7fe6f58567a2)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/e43b7ade-7f4d-41c7-90db-7fe6f58567a2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4010e2d0-31f8-4bda-b562-911937d48ccd" width="30%" />
+  <img src="https://github.com/user-attachments/assets/cbba77c2-3d3c-48d0-8775-754b3219f881" width="30%" />
+</p>
 
-![Image](https://github.com/user-attachments/assets/4010e2d0-31f8-4bda-b562-911937d48ccd)
-
-![Image](https://github.com/user-attachments/assets/cbba77c2-3d3c-48d0-8775-754b3219f881)
----
 
 ## 🏫 Author
 
