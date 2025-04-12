@@ -2,7 +2,7 @@
 
 This project uses **YOLOv8 Pose Estimation** to detect and classify basic human actions — **Jumping**, **Sitting**, and **Standing** — from a video input.
 
-🔍 It works by detecting keypoints using `yolov8n-pose.pt` and applying simple geometry-based heuristics to identify the current action. The results are overlaid on the video and saved as an output file.
+🔍 It works by detecting key points using `yolov8n-pose.pt` and applying simple geometry-based heuristics to identify the current action. The results are overlaid on the video and saved as an output file.
 
 ---
 
@@ -38,8 +38,8 @@ The notebook installs the following packages automatically:
 
 1. **Pose Estimation**: Uses `yolov8n-pose.pt` to detect keypoints on the human body.
 2. **Action Detection**: 
-   - **Jumping** is detected if the ankle keypoints are significantly above the ground level.
-   - **Sitting** is detected if the hip and knee keypoints are close together.
+   - **Jumping** is detected if the ankle key points are significantly above the ground level.
+   - **Sitting** is detected if the hip and knee key points are close together.
    - Otherwise, the person is assumed to be **Standing**.
 3. **Visualization**: Bounding boxes and action labels are drawn on each frame.
 4. **Output**: The annotated video is compressed and made available for download.
@@ -48,12 +48,15 @@ The notebook installs the following packages automatically:
 
 ## 📸 Sample Output (Add your own screenshots)
 
-You can include screenshots or sample frame outputs here to showcase the result.
+![Image](https://github.com/user-attachments/assets/e43b7ade-7f4d-41c7-90db-7fe6f58567a2)
 
+![Image](https://github.com/user-attachments/assets/4010e2d0-31f8-4bda-b562-911937d48ccd)
+
+![Image](https://github.com/user-attachments/assets/cbba77c2-3d3c-48d0-8775-754b3219f881)
 ---
 
 ## 🏫 Author
 
 **Reet Singh Solanki**  
 Indian Institute of Technology Bombay  
-2025 Batch — Engineering Physics  
+2021 Batch — Electrical Engineering  
