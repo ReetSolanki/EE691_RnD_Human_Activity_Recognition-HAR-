@@ -18,7 +18,7 @@ This project uses **YOLOv8 Pose Estimation** to detect and classify basic human 
 1. Download the file `Main.ipynb` from this repository.
 2. Open [Google Colab](https://colab.research.google.com/).
 3. Upload the notebook.
-4. Upload your input video (e.g., `all.mp4`) in the Colab environment.
+4. Upload your input video (name it 'input_video.mp4') in the Colab environment.
 5. Run all the cells — the output will be a downloadable, processed video with action annotations.
 
 ---
